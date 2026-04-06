@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "base_track": "We △re The Future",
+  "base_artist": "BAE",
+  "createdAt": "2026-04-06T03:41:52.956813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We △re The Future",
+      "artist": "BAE",
+      "has_synced": true,
+      "path": "select/01_We_△re_The_Future_BAE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We △re The Future",
+      "artist": "Bae",
+      "has_synced": false,
+      "path": "select/02_We_△re_The_Future_Bae.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We △re The Future",
+      "artist": "Bae",
+      "has_synced": true,
+      "path": "select/03_We_△re_The_Future_Bae.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We re the Walking Dead",
+      "artist": "Eyes Wide Open",
+      "has_synced": true,
+      "path": "select/04_We_re_the_Walking_Dead_Eyes_Wide_Open.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We´re the pet shop boys",
+      "artist": "Williams Robbie",
+      "has_synced": false,
+      "path": "select/05_We_́re_the_pet_shop_boys_Williams_Robbie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WeRe The Pet Shop Boys",
+      "artist": "Robbie Williams",
+      "has_synced": false,
+      "path": "select/06_WeRe_The_Pet_Shop_Boys_Robbie_Williams.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We`re The Pet Shop Boys",
+      "artist": "Robbie Williams",
+      "has_synced": false,
+      "path": "select/07_We`re_The_Pet_Shop_Boys_Robbie_Williams.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We?re The Pet Shop Boys",
+      "artist": "Robbie Williams",
+      "has_synced": false,
+      "path": "select/08_We_re_The_Pet_Shop_Boys_Robbie_Williams.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We △re The Future",
+      "artist": "Bae",
+      "has_synced": false,
+      "path": "select/pl_01_We_△re_The_Future_Bae.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "We △re The Future",
+      "artist": "BAE",
+      "has_synced": true,
+      "path": "select/localdb_01_We_△re_The_Future_BAE.lrc",
+      "repo_name": "pqRsl59VIKg"
+    }
+  ]
+}
